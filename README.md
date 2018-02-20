@@ -21,6 +21,7 @@ To build a new draft release, simply `make`.
 
 ## Revisions
 
+ * 2018-02-20: [draft-stanish-imic-02](http://tools.ietf.org/html/draft-stanish-imic-02): Pending significant update.
  * 2012-11-23: [draft-stanish-imic-01](http://tools.ietf.org/html/draft-stanish-imic-01): Resolve minor typographical and formatting errors.
  * 2012-11-13: [draft-stanish-imic-00](http://tools.ietf.org/html/draft-stanish-imic-00): Significant revision including initial registry contents.
  * 2011-11-15: [draft-imic-00](http://tools.ietf.org/html/draft-imic-00): Initial release.
