@@ -11,7 +11,7 @@
 #
 
 
-all: draft-stanish-imic-02.ms draft-stanish-imic-02.txt
+all: draft-stanish-imic-03.ms draft-stanish-imic-03.txt
 
 GROFF_VERSION!=	groff -v < /dev/null 2>&1 | awk -F. '{print $$2}'
 duh:
